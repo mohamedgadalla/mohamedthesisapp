@@ -7,6 +7,27 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8A542ACC77AB53F047C7C512 /* Pods_FbLoginProjUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 81B3F110CC4054D39688235F /* Pods_FbLoginProjUITests.framework */; };
+		BA509833D3E52610D8271203 /* Pods_FbLoginProjTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5F63FC8B018CB50851152F7F /* Pods_FbLoginProjTests.framework */; };
+		F25295BB2176268500DDEB69 /* AssetLicensingNotes.txt in Resources */ = {isa = PBXBuildFile; fileRef = F25295A62176268500DDEB69 /* AssetLicensingNotes.txt */; };
+		F25295BC2176268500DDEB69 /* InvaderBullet.wav in Resources */ = {isa = PBXBuildFile; fileRef = F25295A82176268500DDEB69 /* InvaderBullet.wav */; };
+		F25295BD2176268500DDEB69 /* ShipBullet.wav in Resources */ = {isa = PBXBuildFile; fileRef = F25295A92176268500DDEB69 /* ShipBullet.wav */; };
+		F25295BE2176268500DDEB69 /* ShipHit.wav in Resources */ = {isa = PBXBuildFile; fileRef = F25295AA2176268500DDEB69 /* ShipHit.wav */; };
+		F25295BF2176268500DDEB69 /* InvaderHit.wav in Resources */ = {isa = PBXBuildFile; fileRef = F25295AB2176268500DDEB69 /* InvaderHit.wav */; };
+		F25295C02176268500DDEB69 /* InvaderB_01@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = F25295AD2176268500DDEB69 /* InvaderB_01@2x.png */; };
+		F25295C12176268500DDEB69 /* Ship.png in Resources */ = {isa = PBXBuildFile; fileRef = F25295AE2176268500DDEB69 /* Ship.png */; };
+		F25295C22176268500DDEB69 /* InvaderC_00.png in Resources */ = {isa = PBXBuildFile; fileRef = F25295AF2176268500DDEB69 /* InvaderC_00.png */; };
+		F25295C32176268500DDEB69 /* InvaderC_01.png in Resources */ = {isa = PBXBuildFile; fileRef = F25295B02176268500DDEB69 /* InvaderC_01.png */; };
+		F25295C42176268500DDEB69 /* InvaderA_00.png in Resources */ = {isa = PBXBuildFile; fileRef = F25295B12176268500DDEB69 /* InvaderA_00.png */; };
+		F25295C52176268500DDEB69 /* InvaderA_01.png in Resources */ = {isa = PBXBuildFile; fileRef = F25295B22176268500DDEB69 /* InvaderA_01.png */; };
+		F25295C62176268500DDEB69 /* InvaderC_01@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = F25295B32176268500DDEB69 /* InvaderC_01@2x.png */; };
+		F25295C72176268500DDEB69 /* InvaderA_00@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = F25295B42176268500DDEB69 /* InvaderA_00@2x.png */; };
+		F25295C82176268500DDEB69 /* InvaderB_00@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = F25295B52176268500DDEB69 /* InvaderB_00@2x.png */; };
+		F25295C92176268500DDEB69 /* InvaderB_01.png in Resources */ = {isa = PBXBuildFile; fileRef = F25295B62176268500DDEB69 /* InvaderB_01.png */; };
+		F25295CA2176268500DDEB69 /* InvaderB_00.png in Resources */ = {isa = PBXBuildFile; fileRef = F25295B72176268500DDEB69 /* InvaderB_00.png */; };
+		F25295CB2176268500DDEB69 /* InvaderA_01@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = F25295B82176268500DDEB69 /* InvaderA_01@2x.png */; };
+		F25295CC2176268500DDEB69 /* InvaderC_00@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = F25295B92176268500DDEB69 /* InvaderC_00@2x.png */; };
+		F25295CD2176268500DDEB69 /* Ship@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = F25295BA2176268500DDEB69 /* Ship@2x.png */; };
 		F29A790A2167DAE300751268 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F29A79092167DAE300751268 /* AppDelegate.swift */; };
 		F29A790C2167DAE300751268 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F29A790B2167DAE300751268 /* ViewController.swift */; };
 		F29A790F2167DAE300751268 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F29A790D2167DAE300751268 /* Main.storyboard */; };
@@ -15,6 +36,18 @@
 		F29A79172167DAE600751268 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F29A79152167DAE600751268 /* LaunchScreen.storyboard */; };
 		F29A79222167DAE600751268 /* FbLoginProjTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F29A79212167DAE600751268 /* FbLoginProjTests.swift */; };
 		F29A792D2167DAE600751268 /* FbLoginProjUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F29A792C2167DAE600751268 /* FbLoginProjUITests.swift */; };
+		F29A793B216A0FF600751268 /* SigninViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F29A793A216A0FF600751268 /* SigninViewController.swift */; };
+		F29A793D216A14AE00751268 /* RegisterUserViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F29A793C216A14AE00751268 /* RegisterUserViewController.swift */; };
+		F29A793F216A15A900751268 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F29A793E216A15A900751268 /* HomeViewController.swift */; };
+		F29A79412174B99500751268 /* ErrorViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F29A79402174B99500751268 /* ErrorViewController.swift */; };
+		F29A79432174C00400751268 /* EntryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F29A79422174C00400751268 /* EntryViewController.swift */; };
+		F29A794B2174C7F500751268 /* UIImage+Gif.swift in Sources */ = {isa = PBXBuildFile; fileRef = F29A794A2174C7F500751268 /* UIImage+Gif.swift */; };
+		F29A794D2174C89B00751268 /* screengif.gif in Resources */ = {isa = PBXBuildFile; fileRef = F29A794C2174C89B00751268 /* screengif.gif */; };
+		F29A794F2174CD8800751268 /* FakeSigninViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F29A794E2174CD8800751268 /* FakeSigninViewController.swift */; };
+		F29A795921751F9C00751268 /* GameOverScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = F29A795621751F9B00751268 /* GameOverScene.swift */; };
+		F29A795A21751F9C00751268 /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = F29A795721751F9B00751268 /* GameScene.swift */; };
+		F29A795B21751F9C00751268 /* GameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F29A795821751F9C00751268 /* GameViewController.swift */; };
+		F5DFFE49C3F237BEF81C4816 /* Pods_FbLoginProj.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C433632E31DF19555552E96B /* Pods_FbLoginProj.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +68,33 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		226621BF93207AAA23441A26 /* Pods-FbLoginProjTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FbLoginProjTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-FbLoginProjTests/Pods-FbLoginProjTests.release.xcconfig"; sourceTree = "<group>"; };
+		5BBAF7B7BCC90BE9E5BD8440 /* Pods-FbLoginProj.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FbLoginProj.debug.xcconfig"; path = "Pods/Target Support Files/Pods-FbLoginProj/Pods-FbLoginProj.debug.xcconfig"; sourceTree = "<group>"; };
+		5F63FC8B018CB50851152F7F /* Pods_FbLoginProjTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_FbLoginProjTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		80FD7C78A0CB83269C426DF1 /* Pods-FbLoginProjUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FbLoginProjUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-FbLoginProjUITests/Pods-FbLoginProjUITests.release.xcconfig"; sourceTree = "<group>"; };
+		81B3F110CC4054D39688235F /* Pods_FbLoginProjUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_FbLoginProjUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		A6F4EAFC5FC11D8CF4420F4F /* Pods-FbLoginProjTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FbLoginProjTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-FbLoginProjTests/Pods-FbLoginProjTests.debug.xcconfig"; sourceTree = "<group>"; };
+		BD6E56AFE1E7A4B711937CFD /* Pods-FbLoginProjUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FbLoginProjUITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-FbLoginProjUITests/Pods-FbLoginProjUITests.debug.xcconfig"; sourceTree = "<group>"; };
+		C433632E31DF19555552E96B /* Pods_FbLoginProj.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_FbLoginProj.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		F25295A62176268500DDEB69 /* AssetLicensingNotes.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = AssetLicensingNotes.txt; sourceTree = "<group>"; };
+		F25295A82176268500DDEB69 /* InvaderBullet.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = InvaderBullet.wav; sourceTree = "<group>"; };
+		F25295A92176268500DDEB69 /* ShipBullet.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = ShipBullet.wav; sourceTree = "<group>"; };
+		F25295AA2176268500DDEB69 /* ShipHit.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = ShipHit.wav; sourceTree = "<group>"; };
+		F25295AB2176268500DDEB69 /* InvaderHit.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = InvaderHit.wav; sourceTree = "<group>"; };
+		F25295AD2176268500DDEB69 /* InvaderB_01@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "InvaderB_01@2x.png"; sourceTree = "<group>"; };
+		F25295AE2176268500DDEB69 /* Ship.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Ship.png; sourceTree = "<group>"; };
+		F25295AF2176268500DDEB69 /* InvaderC_00.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = InvaderC_00.png; sourceTree = "<group>"; };
+		F25295B02176268500DDEB69 /* InvaderC_01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = InvaderC_01.png; sourceTree = "<group>"; };
+		F25295B12176268500DDEB69 /* InvaderA_00.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = InvaderA_00.png; sourceTree = "<group>"; };
+		F25295B22176268500DDEB69 /* InvaderA_01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = InvaderA_01.png; sourceTree = "<group>"; };
+		F25295B32176268500DDEB69 /* InvaderC_01@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "InvaderC_01@2x.png"; sourceTree = "<group>"; };
+		F25295B42176268500DDEB69 /* InvaderA_00@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "InvaderA_00@2x.png"; sourceTree = "<group>"; };
+		F25295B52176268500DDEB69 /* InvaderB_00@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "InvaderB_00@2x.png"; sourceTree = "<group>"; };
+		F25295B62176268500DDEB69 /* InvaderB_01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = InvaderB_01.png; sourceTree = "<group>"; };
+		F25295B72176268500DDEB69 /* InvaderB_00.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = InvaderB_00.png; sourceTree = "<group>"; };
+		F25295B82176268500DDEB69 /* InvaderA_01@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "InvaderA_01@2x.png"; sourceTree = "<group>"; };
+		F25295B92176268500DDEB69 /* InvaderC_00@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "InvaderC_00@2x.png"; sourceTree = "<group>"; };
+		F25295BA2176268500DDEB69 /* Ship@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ship@2x.png"; sourceTree = "<group>"; };
 		F29A79062167DAE300751268 /* FbLoginProj.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FbLoginProj.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F29A79092167DAE300751268 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F29A790B2167DAE300751268 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -49,6 +109,18 @@
 		F29A79282167DAE600751268 /* FbLoginProjUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FbLoginProjUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F29A792C2167DAE600751268 /* FbLoginProjUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FbLoginProjUITests.swift; sourceTree = "<group>"; };
 		F29A792E2167DAE600751268 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F29A793A216A0FF600751268 /* SigninViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SigninViewController.swift; sourceTree = "<group>"; };
+		F29A793C216A14AE00751268 /* RegisterUserViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterUserViewController.swift; sourceTree = "<group>"; };
+		F29A793E216A15A900751268 /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
+		F29A79402174B99500751268 /* ErrorViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ErrorViewController.swift; sourceTree = "<group>"; };
+		F29A79422174C00400751268 /* EntryViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EntryViewController.swift; sourceTree = "<group>"; };
+		F29A794A2174C7F500751268 /* UIImage+Gif.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "UIImage+Gif.swift"; path = "../../DevFiles/UIImage+Gif.swift"; sourceTree = "<group>"; };
+		F29A794C2174C89B00751268 /* screengif.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = screengif.gif; path = ../../DevFiles/screengif.gif; sourceTree = "<group>"; };
+		F29A794E2174CD8800751268 /* FakeSigninViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FakeSigninViewController.swift; sourceTree = "<group>"; };
+		F29A795621751F9B00751268 /* GameOverScene.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = GameOverScene.swift; path = "../../../../../../Downloads/SKInvaders-October2016/SKInvaders/GameOverScene.swift"; sourceTree = "<group>"; };
+		F29A795721751F9B00751268 /* GameScene.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = GameScene.swift; path = "../../../../../../Downloads/SKInvaders-October2016/SKInvaders/GameScene.swift"; sourceTree = "<group>"; };
+		F29A795821751F9C00751268 /* GameViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = GameViewController.swift; path = "../../../../../../Downloads/SKInvaders-October2016/SKInvaders/GameViewController.swift"; sourceTree = "<group>"; };
+		F59A3384288EF13DCFBA34F3 /* Pods-FbLoginProj.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FbLoginProj.release.xcconfig"; path = "Pods/Target Support Files/Pods-FbLoginProj/Pods-FbLoginProj.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +128,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F5DFFE49C3F237BEF81C4816 /* Pods_FbLoginProj.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -63,6 +136,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BA509833D3E52610D8271203 /* Pods_FbLoginProjTests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -70,12 +144,78 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8A542ACC77AB53F047C7C512 /* Pods_FbLoginProjUITests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		14EA7132BDEA235E34696677 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				C433632E31DF19555552E96B /* Pods_FbLoginProj.framework */,
+				5F63FC8B018CB50851152F7F /* Pods_FbLoginProjTests.framework */,
+				81B3F110CC4054D39688235F /* Pods_FbLoginProjUITests.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		480EC721867D9FEB3F739F4F /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				5BBAF7B7BCC90BE9E5BD8440 /* Pods-FbLoginProj.debug.xcconfig */,
+				F59A3384288EF13DCFBA34F3 /* Pods-FbLoginProj.release.xcconfig */,
+				A6F4EAFC5FC11D8CF4420F4F /* Pods-FbLoginProjTests.debug.xcconfig */,
+				226621BF93207AAA23441A26 /* Pods-FbLoginProjTests.release.xcconfig */,
+				BD6E56AFE1E7A4B711937CFD /* Pods-FbLoginProjUITests.debug.xcconfig */,
+				80FD7C78A0CB83269C426DF1 /* Pods-FbLoginProjUITests.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		F25295A52176268500DDEB69 /* Assets */ = {
+			isa = PBXGroup;
+			children = (
+				F25295A62176268500DDEB69 /* AssetLicensingNotes.txt */,
+				F25295A72176268500DDEB69 /* Sound Effects */,
+				F25295AC2176268500DDEB69 /* Sprite Images */,
+			);
+			path = Assets;
+			sourceTree = "<group>";
+		};
+		F25295A72176268500DDEB69 /* Sound Effects */ = {
+			isa = PBXGroup;
+			children = (
+				F25295A82176268500DDEB69 /* InvaderBullet.wav */,
+				F25295A92176268500DDEB69 /* ShipBullet.wav */,
+				F25295AA2176268500DDEB69 /* ShipHit.wav */,
+				F25295AB2176268500DDEB69 /* InvaderHit.wav */,
+			);
+			path = "Sound Effects";
+			sourceTree = "<group>";
+		};
+		F25295AC2176268500DDEB69 /* Sprite Images */ = {
+			isa = PBXGroup;
+			children = (
+				F25295AD2176268500DDEB69 /* InvaderB_01@2x.png */,
+				F25295AE2176268500DDEB69 /* Ship.png */,
+				F25295AF2176268500DDEB69 /* InvaderC_00.png */,
+				F25295B02176268500DDEB69 /* InvaderC_01.png */,
+				F25295B12176268500DDEB69 /* InvaderA_00.png */,
+				F25295B22176268500DDEB69 /* InvaderA_01.png */,
+				F25295B32176268500DDEB69 /* InvaderC_01@2x.png */,
+				F25295B42176268500DDEB69 /* InvaderA_00@2x.png */,
+				F25295B52176268500DDEB69 /* InvaderB_00@2x.png */,
+				F25295B62176268500DDEB69 /* InvaderB_01.png */,
+				F25295B72176268500DDEB69 /* InvaderB_00.png */,
+				F25295B82176268500DDEB69 /* InvaderA_01@2x.png */,
+				F25295B92176268500DDEB69 /* InvaderC_00@2x.png */,
+				F25295BA2176268500DDEB69 /* Ship@2x.png */,
+			);
+			path = "Sprite Images";
+			sourceTree = "<group>";
+		};
 		F29A78FD2167DAE300751268 = {
 			isa = PBXGroup;
 			children = (
@@ -83,6 +223,8 @@
 				F29A79202167DAE600751268 /* FbLoginProjTests */,
 				F29A792B2167DAE600751268 /* FbLoginProjUITests */,
 				F29A79072167DAE300751268 /* Products */,
+				480EC721867D9FEB3F739F4F /* Pods */,
+				14EA7132BDEA235E34696677 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -99,13 +241,25 @@
 		F29A79082167DAE300751268 /* FbLoginProj */ = {
 			isa = PBXGroup;
 			children = (
+				F25295A52176268500DDEB69 /* Assets */,
+				F29A795621751F9B00751268 /* GameOverScene.swift */,
+				F29A795721751F9B00751268 /* GameScene.swift */,
+				F29A795821751F9C00751268 /* GameViewController.swift */,
+				F29A794C2174C89B00751268 /* screengif.gif */,
+				F29A794A2174C7F500751268 /* UIImage+Gif.swift */,
 				F29A79092167DAE300751268 /* AppDelegate.swift */,
 				F29A790B2167DAE300751268 /* ViewController.swift */,
 				F29A790D2167DAE300751268 /* Main.storyboard */,
+				F29A794E2174CD8800751268 /* FakeSigninViewController.swift */,
+				F29A79422174C00400751268 /* EntryViewController.swift */,
+				F29A79402174B99500751268 /* ErrorViewController.swift */,
 				F29A79132167DAE600751268 /* Assets.xcassets */,
 				F29A79152167DAE600751268 /* LaunchScreen.storyboard */,
 				F29A79182167DAE600751268 /* Info.plist */,
 				F29A79102167DAE400751268 /* FbLoginProj.xcdatamodeld */,
+				F29A793A216A0FF600751268 /* SigninViewController.swift */,
+				F29A793C216A14AE00751268 /* RegisterUserViewController.swift */,
+				F29A793E216A15A900751268 /* HomeViewController.swift */,
 			);
 			path = FbLoginProj;
 			sourceTree = "<group>";
@@ -135,9 +289,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = F29A79312167DAE600751268 /* Build configuration list for PBXNativeTarget "FbLoginProj" */;
 			buildPhases = (
+				FE07A483A3A4C8973D64BE57 /* [CP] Check Pods Manifest.lock */,
 				F29A79022167DAE300751268 /* Sources */,
 				F29A79032167DAE300751268 /* Frameworks */,
 				F29A79042167DAE300751268 /* Resources */,
+				9711B4B8DDCA68EB1CF3AB61 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -152,6 +308,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = F29A79342167DAE600751268 /* Build configuration list for PBXNativeTarget "FbLoginProjTests" */;
 			buildPhases = (
+				1B1C6A78B85B6D878A58F2DA /* [CP] Check Pods Manifest.lock */,
 				F29A79192167DAE600751268 /* Sources */,
 				F29A791A2167DAE600751268 /* Frameworks */,
 				F29A791B2167DAE600751268 /* Resources */,
@@ -170,6 +327,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = F29A79372167DAE600751268 /* Build configuration list for PBXNativeTarget "FbLoginProjUITests" */;
 			buildPhases = (
+				148AD564FE8A34E10B4EA904 /* [CP] Check Pods Manifest.lock */,
 				F29A79242167DAE600751268 /* Sources */,
 				F29A79252167DAE600751268 /* Frameworks */,
 				F29A79262167DAE600751268 /* Resources */,
@@ -232,9 +390,29 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F25295CA2176268500DDEB69 /* InvaderB_00.png in Resources */,
+				F25295C92176268500DDEB69 /* InvaderB_01.png in Resources */,
+				F25295BE2176268500DDEB69 /* ShipHit.wav in Resources */,
+				F25295BF2176268500DDEB69 /* InvaderHit.wav in Resources */,
+				F25295C12176268500DDEB69 /* Ship.png in Resources */,
+				F25295C32176268500DDEB69 /* InvaderC_01.png in Resources */,
 				F29A79172167DAE600751268 /* LaunchScreen.storyboard in Resources */,
+				F25295CC2176268500DDEB69 /* InvaderC_00@2x.png in Resources */,
+				F25295C82176268500DDEB69 /* InvaderB_00@2x.png in Resources */,
+				F25295C72176268500DDEB69 /* InvaderA_00@2x.png in Resources */,
+				F25295C62176268500DDEB69 /* InvaderC_01@2x.png in Resources */,
+				F25295BB2176268500DDEB69 /* AssetLicensingNotes.txt in Resources */,
 				F29A79142167DAE600751268 /* Assets.xcassets in Resources */,
+				F25295C22176268500DDEB69 /* InvaderC_00.png in Resources */,
 				F29A790F2167DAE300751268 /* Main.storyboard in Resources */,
+				F25295CB2176268500DDEB69 /* InvaderA_01@2x.png in Resources */,
+				F25295C02176268500DDEB69 /* InvaderB_01@2x.png in Resources */,
+				F29A794D2174C89B00751268 /* screengif.gif in Resources */,
+				F25295C52176268500DDEB69 /* InvaderA_01.png in Resources */,
+				F25295CD2176268500DDEB69 /* Ship@2x.png in Resources */,
+				F25295BD2176268500DDEB69 /* ShipBullet.wav in Resources */,
+				F25295BC2176268500DDEB69 /* InvaderBullet.wav in Resources */,
+				F25295C42176268500DDEB69 /* InvaderA_00.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -254,14 +432,121 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		148AD564FE8A34E10B4EA904 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-FbLoginProjUITests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		1B1C6A78B85B6D878A58F2DA /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-FbLoginProjTests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		9711B4B8DDCA68EB1CF3AB61 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-FbLoginProj/Pods-FbLoginProj-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/Bolts/Bolts.framework",
+				"${BUILT_PRODUCTS_DIR}/FBSDKCoreKit/FBSDKCoreKit.framework",
+				"${BUILT_PRODUCTS_DIR}/FBSDKLoginKit/FBSDKLoginKit.framework",
+				"${BUILT_PRODUCTS_DIR}/FBSDKShareKit/FBSDKShareKit.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Bolts.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/FBSDKCoreKit.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/FBSDKLoginKit.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/FBSDKShareKit.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-FbLoginProj/Pods-FbLoginProj-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		FE07A483A3A4C8973D64BE57 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-FbLoginProj-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		F29A79022167DAE300751268 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F29A79412174B99500751268 /* ErrorViewController.swift in Sources */,
+				F29A793D216A14AE00751268 /* RegisterUserViewController.swift in Sources */,
+				F29A795921751F9C00751268 /* GameOverScene.swift in Sources */,
+				F29A793B216A0FF600751268 /* SigninViewController.swift in Sources */,
+				F29A795B21751F9C00751268 /* GameViewController.swift in Sources */,
+				F29A794B2174C7F500751268 /* UIImage+Gif.swift in Sources */,
 				F29A790C2167DAE300751268 /* ViewController.swift in Sources */,
+				F29A795A21751F9C00751268 /* GameScene.swift in Sources */,
 				F29A790A2167DAE300751268 /* AppDelegate.swift in Sources */,
+				F29A79432174C00400751268 /* EntryViewController.swift in Sources */,
+				F29A794F2174CD8800751268 /* FakeSigninViewController.swift in Sources */,
 				F29A79122167DAE400751268 /* FbLoginProj.xcdatamodeld in Sources */,
+				F29A793F216A15A900751268 /* HomeViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -434,40 +719,51 @@
 		};
 		F29A79322167DAE600751268 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 5BBAF7B7BCC90BE9E5BD8440 /* Pods-FbLoginProj.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = N79V2BD93D;
 				INFOPLIST_FILE = FbLoginProj/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.1;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.abc.FbLoginProj;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 4.2;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
 		F29A79332167DAE600751268 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = F59A3384288EF13DCFBA34F3 /* Pods-FbLoginProj.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = N79V2BD93D;
 				INFOPLIST_FILE = FbLoginProj/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.1;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.abc.FbLoginProj;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 4.2;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
 		F29A79352167DAE600751268 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = A6F4EAFC5FC11D8CF4420F4F /* Pods-FbLoginProjTests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -488,6 +784,7 @@
 		};
 		F29A79362167DAE600751268 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 226621BF93207AAA23441A26 /* Pods-FbLoginProjTests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -508,6 +805,7 @@
 		};
 		F29A79382167DAE600751268 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = BD6E56AFE1E7A4B711937CFD /* Pods-FbLoginProjUITests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
@@ -527,6 +825,7 @@
 		};
 		F29A79392167DAE600751268 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 80FD7C78A0CB83269C426DF1 /* Pods-FbLoginProjUITests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
